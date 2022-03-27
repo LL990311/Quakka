@@ -1,4 +1,4 @@
-Assignment 4: Quokka Survival Strategies
+Quokka Survival Strategies
 ----------------------------------------
 
 All submitted work must be *done individually* without consulting someone else's solutions in accordance with the University's [Academic Dishonesty and Plagiarism](https://sydney.edu.au/students/academic-dishonesty.html) policies.
